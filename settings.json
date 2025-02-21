@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "SauvageSMP.aternos.me",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.20.1"
   },
 
   "position": {
@@ -20,13 +20,13 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "12345678"
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false,
+      "enabled": true,
+      "sneak": true,
       "jump": false,
       "rotate": false,
 
